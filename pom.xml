@@ -14,7 +14,7 @@
         <sonar.host.url>http://13.201.116.110:9000/</sonar.host.url>
         <sonar.login>admin</sonar.login>
         <sonar.password>Jesus@143</sonar.password> 
-</properties>
+    </properties>
 
     <dependency> 
 
