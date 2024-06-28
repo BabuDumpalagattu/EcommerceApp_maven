@@ -11,9 +11,9 @@
   </organization>
 
     <properties>
-        <sonar.host.url>http://13.201.116.110:9000/</sonar.host.url>
+        <sonar.host.url>http://65.2.131.99:9000/</sonar.host.url>
         <sonar.login>admin</sonar.login>
-        <sonar.password>Jesus@143</sonar.password> 
+        <sonar.password>Alliswell@143</sonar.password> 
     </properties>
 
     <dependency> 
